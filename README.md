@@ -82,8 +82,7 @@ plt.show()
 ~~~~
 
 # Output Waveform
-![image](https://github.com/uOutput Waveform
-
+![image](https://github.com/user-attachments/assets/e89deaed-1568-4e62-984c-dc57b16e3d92)
 
 # Results
 
